@@ -1,5 +1,5 @@
 ## Password Generator
-
+--------------------------------
 # Instructions
 
 The program will ask:
@@ -34,5 +34,5 @@ When you've completed the easy version, you're ready to tackle the hard version.
 ```
 x$d24g*f9
 ```
-And every time you generate a password, the positions of the symbols, numbers, and letters are different. 
+And every time you generate a password, the positions of the symbols, numbers, and letters are different.
 
